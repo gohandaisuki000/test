@@ -1,5 +1,6 @@
-console.log("hello from the main branch");
-
+function greet(){
+console.log("hello,git!");
+};
 
 
 
